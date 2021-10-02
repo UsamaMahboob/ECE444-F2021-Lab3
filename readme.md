@@ -1,3 +1,7 @@
+# Disclaimer:
+Name: Usama Mahboob
+This repository is a copy of https://github.com/nelaturuk/education_pathways
+
 # CARTE Education Pathways
 
 ## Description
